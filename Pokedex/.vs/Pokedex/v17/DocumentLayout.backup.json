@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PokemonDex1\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|D:\\PokemonDex1\\Pokedex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\pickachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:pickachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\snorlax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:snorlax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\mewtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:mewtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\togepi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:togepi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\arceus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:arceus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|d:\\pokemondex1\\pokedex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A347CEE4-EBDB-4A6B-BB03-7EBC62408C76}|Pokedex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:19:22.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Charmander.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Charmander.cs",
+              "RelativeDocumentMoniker": "Charmander.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Charmander.cs",
+              "RelativeToolTip": "Charmander.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:22:54.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pickachu.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\pickachu.cs",
+              "RelativeDocumentMoniker": "pickachu.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\pickachu.cs",
+              "RelativeToolTip": "pickachu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:11:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Pokemon.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Pokemon.cs",
+              "RelativeToolTip": "Pokemon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:04:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:05:51.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Snorlax.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Snorlax.cs",
+              "RelativeDocumentMoniker": "Snorlax.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Snorlax.cs",
+              "RelativeToolTip": "Snorlax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:58:50.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:01:54.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mewtwo.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Mewtwo.cs",
+              "RelativeDocumentMoniker": "Mewtwo.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Mewtwo.cs",
+              "RelativeToolTip": "Mewtwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:13:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Togepi.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Togepi.cs",
+              "RelativeDocumentMoniker": "Togepi.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Togepi.cs",
+              "RelativeToolTip": "Togepi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:52:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Arceus.cs",
+              "DocumentMoniker": "D:\\PokemonDex1\\Pokedex\\Arceus.cs",
+              "RelativeDocumentMoniker": "Arceus.cs",
+              "ToolTip": "D:\\PokemonDex1\\Pokedex\\Arceus.cs",
+              "RelativeToolTip": "Arceus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:41:10.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
